@@ -1,0 +1,1 @@
+Look up characters by the readings of two of its parts. Modified from https://github.com/szc126/rime-liangfen to support lookup via FlyPy Double Pinyin (小鹤双拼 Xiaohe Shuangpin), which is in turn based on [LiangFen](http://cheonhyeong.com/Simplified/download.html) by Sim CheonHyeong
